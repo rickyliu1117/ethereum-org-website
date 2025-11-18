@@ -33,8 +33,8 @@ Since 2021, upgrades to the **execution layer** are named according to the city 
 | London       | 2015        | I             | Aug 5, 2021  |
 | Shanghai     | 2016        | II            | Apr 12, 2023 |
 | Cancun       | 2017        | III           | Mar 13, 2024 |
-| **Prague**   | 2018        | IV            | TBD - Next   |
-| _Osaka_      | 2019        | V             | TBD          |
+| Prague       | 2018        | IV            | May 7, 2025  |
+| **Osaka**    | 2019        | V             | TBD - Next   |
 | _Bogota_     | 2022        | VI            | TBD          |
 | _Bangkok_    | 2024        | VII           | TBD          |
 
@@ -49,8 +49,8 @@ Since the launch of the [Beacon Chain](/glossary/#beacon-chain), upgrades to the
 | [Bellatrix](https://en.wikipedia.org/wiki/Bellatrix)          | Sep 6, 2022  |
 | [Capella](https://en.wikipedia.org/wiki/Capella)              | Apr 12, 2023 |
 | [Deneb](https://en.wikipedia.org/wiki/Deneb)                  | Mar 13, 2024 |
-| [**Electra**](<https://en.wikipedia.org/wiki/Electra_(star)>) | TBD - Next   |
-| [_Fulu_](<https://en.wikipedia.org/wiki/Fulu_(star)>)         | TBD          |
+| [Electra](<https://en.wikipedia.org/wiki/Electra_(star)>)     | May 7, 2025  |
+| [**Fulu**](<https://en.wikipedia.org/wiki/Fulu_(star)>)       | TBD - Next   |
 
 **Combined naming**
 
